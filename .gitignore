@@ -1,0 +1,11 @@
+#Local files
+
+readRegisters
+employeeCreator
+employeeRecords.dat
+
+#Compiles
+
+employeeCreator
+readRegisters
+bubbleSort
